@@ -205,25 +205,8 @@ python -c "from src.crime_detector import CrimeDetectionPipeline; print('✅ Sys
 3. Retrain model with updated dataset
 4. Update GUI labels and alerts
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
-
-- **UCF-Crime Dataset**: University of Central Florida
-- **PyTorch Team**: Deep learning framework
-- **OpenCV Community**: Computer vision library
-
-
 ---
-
-**⚠️ Disclaimer**: This system is for educational and research purposes. Always comply with local laws and privacy regulations when deploying surveillance systems.
